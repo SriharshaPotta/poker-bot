@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+*.o
+*.a
+__pycache__/
+*.pyc
+.venv/
+data/
+*.csv
+.DS_Store
